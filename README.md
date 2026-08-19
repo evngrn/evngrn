@@ -11,9 +11,8 @@ Solutions engineer by day: ten years across early-stage startups, fintech, and g
 
 - **[Dolores](https://github.com/evngrn/dolores)** — an embodied cognitive architecture: a simulated humanoid that sees, hears, moves, talks, and remembers across restarts. Learned world model, model-predictive planning through the model, distilled reflex policy, LLM as semantic interface outside the control loop, gated experiments with committed receipts, and the failures documented next to the results. Five rebuilds, May–July 2026; the public repo carries the architecture, method, and receipts.
 
-## Deployments and prototypes
+## Prototypes
 
-- **[Hermes Agent deployment](https://github.com/evngrn/hermes-comprizant-deploy)** — Hermes Agent in Docker, integrated with a real business API and an MCP server, written up as a customer deployment guide.
 - **[AIVIDYA](https://github.com/evngrn/aividya)** — AI film studio: an LLM plans shots, a Python pipeline renders them through ComfyUI on rented GPUs (FLUX, video models, face-consistency, TTS).
 - **[Health OS](https://github.com/evngrn/health-os)** — an agent with real tools and persistent memory over my own health data.
 - **Snaketronic** — real-time multiplayer game server (Node/TypeScript, Socket.io, Phaser).
