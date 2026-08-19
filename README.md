@@ -14,8 +14,8 @@ Solutions engineer by day: ten years across early-stage startups, fintech, and g
 ## Deployments and prototypes
 
 - **[Hermes Agent deployment](https://github.com/evngrn/hermes-comprizant-deploy)** — Hermes Agent in Docker, integrated with a real business API and an MCP server, written up as a customer deployment guide.
-- **AIVIDYA** — AI film studio: an LLM plans shots, a Python pipeline renders them through ComfyUI on rented GPUs (FLUX, video models, face-consistency, TTS).
-- **Health OS** — an agent with real tools and persistent memory over my own health data.
+- **[AIVIDYA](https://github.com/evngrn/aividya)** — AI film studio: an LLM plans shots, a Python pipeline renders them through ComfyUI on rented GPUs (FLUX, video models, face-consistency, TTS).
+- **[Health OS](https://github.com/evngrn/health-os)** — an agent with real tools and persistent memory over my own health data.
 - **Snaketronic** — real-time multiplayer game server (Node/TypeScript, Socket.io, Phaser).
 
 ## Contact
