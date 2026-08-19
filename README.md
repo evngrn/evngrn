@@ -9,7 +9,7 @@ Solutions engineer by day: ten years across early-stage startups, fintech, and g
 
 ## Research
 
-- **[Dolores v6](https://github.com/evngrn/dolores-v6)** — an embodied cognitive architecture: a simulated humanoid that sees, hears, moves, talks, and remembers across restarts. Learned world model, model-predictive planning through the model, distilled reflex policy, LLM as semantic interface outside the control loop, gated experiments with committed receipts, and the failures documented next to the results. Six rebuilds, May–July 2026.
+- **[Dolores](https://github.com/evngrn/dolores)** — an embodied cognitive architecture: a simulated humanoid that sees, hears, moves, talks, and remembers across restarts. Learned world model, model-predictive planning through the model, distilled reflex policy, LLM as semantic interface outside the control loop, gated experiments with committed receipts, and the failures documented next to the results. Five rebuilds, May–July 2026; the public repo carries the architecture, method, and receipts.
 
 ## Deployments and prototypes
 
