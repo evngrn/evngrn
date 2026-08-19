@@ -19,4 +19,4 @@ Solutions engineer by day: ten years across early-stage startups, fintech, and g
 
 ## Contact
 
-evangreen120@gmail.com
+evangreen120@gmail.com · [LinkedIn](https://linkedin.com/in/evanpgreen)
