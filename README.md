@@ -4,7 +4,7 @@ Solutions engineer by day: ten years across early-stage startups, fintech, and g
 
 ## Live products (source private; read access on request)
 
-- **[Comprizant](https://comprizant.com)** — sweepstakes and promotions compliance platform. Drafts official rules with LLM-backed legal review, works out state filings and bonds, fraud-screens entries with a twelve-signal scoring pipeline, runs audited random drawings, and handles winner verification and tax paperwork. Next.js, AWS Lambda, Cloudflare Workers, Supabase + DynamoDB, Stripe. [Architecture overview →](https://github.com/evngrn/comprizant-overview)
+- **[Comprizant](https://comprizant.com)** — sweepstakes and promotions compliance platform. Drafts official rules with LLM-backed legal review, works out state filings and bonds, fraud-screens entries with a twelve-signal scoring pipeline, runs audited random drawings, and handles winner verification and tax paperwork. Next.js, AWS Lambda, Cloudflare Workers, Supabase + DynamoDB, Stripe.
 - **[Kangiru Crafts](https://kangiru.com)** — turns any photo or AI image into cross-stitch, diamond-painting, Perler, crochet, and paint-by-numbers patterns with charts, thread legends, and shopping lists. CIELAB color quantization tuned to real thread catalogs, a mesh-to-crochet generator that validates its own stitch counts, a multi-provider image-generation router with failover and circuit breakers. FastAPI, Next.js, Postgres job queues, Stripe. Built and launched in two weeks. [Architecture overview →](https://github.com/evngrn/kangiru-overview)
 
 ## Research
