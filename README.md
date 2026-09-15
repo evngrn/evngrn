@@ -13,7 +13,7 @@ Solutions engineer by day: ten years across early-stage startups, fintech, and g
 ## Prototypes
 
 - **[AIVIDYA](https://github.com/evngrn/aividya)** — AI film studio: an LLM plans shots, a Python pipeline renders them through ComfyUI on rented GPUs (FLUX, video models, face-consistency, TTS).
-- **[Health OS](https://github.com/evngrn/health-os)** — an agent with real tools and persistent memory over my own health data.
+- **Health OS** — an agent with real tools and persistent memory over my own health data *(repo private)*.
 - **Snaketronic** — real-time multiplayer game server (Node/TypeScript, Socket.io, Phaser).
 
 ## Contact
