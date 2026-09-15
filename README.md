@@ -1,6 +1,6 @@
 # Evan Green
 
-Solutions engineer by day: ten years across early-stage startups, fintech, and global software companies, the last five deploying identity verification, biometrics, and AML systems into banks, a Federal Reserve Bank, crypto exchanges, and Fortune 500s. Builder by night. I use modern AI tooling heavily and I ship.
+Solutions engineer by day: ten years across early-stage startups, fintech, and global software companies, the last five deploying identity verification, biometrics, and AML systems into banks, fintechs, crypto exchanges, and Fortune 500s. Builder by night. I use modern AI tooling heavily and I ship.
 
 ## Live product (source private; read access on request)
 
